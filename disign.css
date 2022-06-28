@@ -1,0 +1,75 @@
+body {
+  background: #0036ff;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-family: cursive;
+  }
+div{
+  height: auto;
+  width: 80%;
+  background-color: darkslategray;
+  margin-left: 10%;
+}
+h3 {
+  text-align: center;
+  font-family: Merriweather, serif;
+}
+hr{
+width: 30%;
+}
+h3{
+  font-family: monospace;
+  color: wheat;
+}
+h2{
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-family: Merriweather, serif;
+  font-family: monospace;
+  color: wheat;
+  font-size: 119%
+}
+ul{
+  list-style-type: none;
+  overflow: hidden;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  position: sticky;
+  top:0;
+}
+li{
+  float: left;
+  color: wheat;
+}
+li a{
+  font-size: 15px;
+  display: inline-block;
+  padding: 15px 20px;
+}
+li a:hover{
+  background-color: aqua;
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: wheat;
+}
+button a{
+  background-color: aliceblue;
+  color: brown;
+}
+button a:hover{
+  background-color: red;
+  color: rgb(255, 255, 255);
+}
